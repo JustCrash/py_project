@@ -4,4 +4,11 @@ def func_summa():
     return a + b
 
 
+def func_subtraction():
+    a = 5
+    b = 3
+    return a - b
+
+
 print(func_summa())
+print(func_subtraction())
